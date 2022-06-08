@@ -65,8 +65,8 @@
 
 
   {"key":"csp_biubiu_奇粹影院","name":"🥒奇粹影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E5%A5%87%E7%B2%B9%E5%BD%B1%E9%99%A2.json?download=false"},
-
-   
+{"key":"csp_biubiu_影渣渣","name":"🥒影渣渣(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXB/影渣渣.json"},
+  {"key":"csp_biubiu_视中心影院","name":"🥒视中心影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXB/视中心影院.json"}, 
  
 
 {"key":"M3U8.TV资源","name":"M3U8.TV资源","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]}
