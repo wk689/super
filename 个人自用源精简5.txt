@@ -140,9 +140,9 @@
 
 
 
-//"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/custom_spider_220521.jar?download=true",
+"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA3.jar?download=true",
 
-"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA2.jar?download=true",
+//"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA2.jar?download=true",
   //"spider":"img+https://icloud2.coding.net/p/jar/d/jar/git/raw/master/doraAmen?download=true",
   
  //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
