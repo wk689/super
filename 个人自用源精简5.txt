@@ -11,6 +11,7 @@
       "filterable": 1
     },
  {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_appysv2_快看影视","name":"快看影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kuaikys.com/mogai_api.php/v1.vod"},
 {"key":"csp_biubiu_特狗影视","name":"🥒特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%86.json?download=false"},
 {"key":"csp_biubiu_奈落影院","name":"🥒奈落影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E5%A5%88%E8%90%BD%E5%BD%B1%E9%99%A2.json?download=false"},
  {"key":"csp_biubiu_喜鹊视频","name":"🥒喜鹊视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E5%96%9C%E9%B9%8A%E8%A7%86%E9%A2%91.json?download=false"},
@@ -141,8 +142,9 @@
 
 //"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/custom_spider_220521.jar?download=true",
 
-//"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA3.jar?download=true",
-  "spider":"img+https://icloud2.coding.net/p/jar/d/jar/git/raw/master/doraAmen?download=true",
+"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA2.jar?download=true",
+  //"spider":"img+https://icloud2.coding.net/p/jar/d/jar/git/raw/master/doraAmen?download=true",
+  
  //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
  
   "flags": [
