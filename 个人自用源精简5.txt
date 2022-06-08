@@ -62,7 +62,7 @@
 
 {"key":"csp_biubiu_hdmoli","name":"🥒hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/xbhdmoli.json?download=false"},
 
-
+{"key":"csp_biubiu_星空影视","name":"🥒星空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E6%98%9F%E7%A9%BA%E5%BD%B1%E8%A7%86.json?download=false"},
 
 
   {"key":"csp_biubiu_奇粹影院","name":"🥒奇粹影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E5%A5%87%E7%B2%B9%E5%BD%B1%E9%99%A2.json?download=false"},
@@ -142,8 +142,8 @@
 
 //"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA3.jar?download=true",
 
-//"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA2.jar?download=true",
-  "spider":"img+https://icloud2.coding.net/p/jar/d/jar/git/raw/master/doraAmen?download=true",
+"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA2.jar?download=true",
+  //"spider":"img+https://icloud2.coding.net/p/jar/d/jar/git/raw/master/doraAmen?download=true",
   
  //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
  
