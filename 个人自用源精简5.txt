@@ -42,7 +42,7 @@
 {"key":"csp_biubiu_火火影视","name":"🥒火火影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E7%81%AB%E7%81%AB%E5%BD%B1%E8%A7%86.json?download=false"},
 {"key":"csp_biubiu_87影院","name":"🥒87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/YuanHsing/OneClickRun/master/MeowXB/87%E5%BD%B1%E9%99%A2.json"}, 
 {"key":"csp_biubiu_厂长资源-蓝光","name":"🥒厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89.json?download=false"},
-
+{"key":"csp_Buka","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_在线之家","name":"🥒在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json?download=false"},
 
 
@@ -71,7 +71,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+   "ext": "https://icloud2.coding.net/p/jar/d/jar/git/raw/master/Auete.json?download=false" },
 {"key":"csp_biubiu_乌龟影院","name":"🥒乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json?download=false"},
 
 
