@@ -70,7 +70,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
    "ext": "https://icloud2.coding.net/p/jar/d/jar/git/raw/master/Auete.json?download=false" },
 {"key":"csp_biubiu_乌龟影院","name":"🥒乌龟影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json?download=false"},
 
