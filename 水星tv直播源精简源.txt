@@ -1,0 +1,67 @@
+﻿CCTV,#genre#
+fenghuangzixun,http://39.135.49.209:6610/PLTV/88888888/224/3221227226/1.m3u8?servicetype=1
+fenghuangzhongwen,http://39.135.49.209:6610/PLTV/88888888/224/3221227222/1.m3u8?servicetype=1
+CCTV1,http://39.135.49.209:6610/PLTV/88888888/224/3221226908/1.m3u8?servicetype=1
+CCTV1,http://39.136.66.3/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8 
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8 
+CCTV1,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8 
+
+
+
+CCTV1,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
+
+
+CCTV2,http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
+CCTV2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8 
+CCTV2,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+
+CCTV2,http://117.169.120.140:8080/live/cctv-2/.m3u8 
+CCTV2,http://39.135.32.236:6610/PLTV/77777777/224/3221225657/index.m3u8?桂林移动
+
+CCTV2,http://39.135.32.236:6610/PLTV/77777777/224/3221225676/index.m3u8?$广西移动
+
+CCTV12,http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+CCTV12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV12, http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
+CCTV12, http://39.134.24.24/PLTV/88888888/224/3221225702/index.m3u8
+           
+CCTV3,http://39.135.49.209:6610/PLTV/88888888/224/3221227055/1.m3u8?servicetype=1
+CCTV3,http://39.136.66.3/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+CCTV4,http://39.135.49.209:6610/PLTV/88888888/224/3221226968/1.m3u8?servicetype=1
+CCTV4,http://39.136.66.3/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+CCTV5+,http://39.135.49.209:6610/PLTV/88888888/224/3221225939/1.m3u8?servicetype=1
+CCTV5+,http://39.136.66.3/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls
+CCTV5,http://39.135.49.209:6610/PLTV/88888888/224/3221227170/1.m3u8?servicetype=1
+CCTV5,http://39.136.66.3/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+CCTV6,http://39.135.49.209:6610/PLTV/88888888/224/3221227137/1.m3u8?servicetype=1
+CCTV6,http://39.136.66.3/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
+
+
+weishi,#genre#
+hunan weishi,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+hunan weishi,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+hunan weishi,http://111.40.196.9/PLTV/88888888/224/3221225554/index.m3u8
+hunan weishi,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8 
+
+hunan weishi,http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?
+
+zhejiang weishi,http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8 
+zhejiang weishi,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
+zhejiang weishi,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8 
+zhejiang weishi,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+zhejiang weishi,http://39.135.34.150:8080/000000001000/1000000001000009806/1.m3u8?
+beijing weishi,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+
+dongfang weishi,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8 
+
+dongfang weishi,http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?
+dongfang weishi,http://39.136.66.3/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
+
+dongfang weishi,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8 
+dongfang weishi,http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8 
+
+dongfang weishi,http://39.135.34.150:8080/000000001000/1000000001000030202/1.m3u8?
+jiangsu weishi,http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+jiangsu weishi,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+jiangsu weishi,http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?
