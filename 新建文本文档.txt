@@ -6,6 +6,7 @@ https://notabug.org/275497197/xiaoming/raw/master/xiaoming/xm.json
 
 https://raw.githubusercontent.com/wk689/super/main/个人自用源精简5.txt
 
+https://freed.yuanhsing.cf/TVBox/meowcf.json
 
 新建文本文档.txt
 https://raw.githubusercontent.com/wk689/super/main/新建文本文档.txt
