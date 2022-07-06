@@ -13,7 +13,7 @@
             "filterable":"1",
             "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"
         },
-{
+
 {"key":"csp_appysv2_米来影视","name":"米来影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
 
 {"key":"csp_Lib","name":"🐼Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
