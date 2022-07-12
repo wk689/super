@@ -1,15 +1,7 @@
 ﻿
    {
 	"sites": [
-{
-			"key": "兔子窝",
-			"name": "兔子窝(聚)",
-			"type": 1,
-			"api": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod",
-			
-			"searchable": 1,
-			"quickSearch": 1
-		},
+
 
 
 
@@ -125,23 +117,6 @@
 			"quickSearch": 1
 		},
 		
-		{
-			"key": "快播资源",
-			"name": "快播资源(切)",
-			"type": 1,
-			"api": "http://www.kuaibozy.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		
-		{
-			"key": "酷云77",
-			"name": "酷云77",
-			"type": 1,
-			"api": "http://api.kunyu77.com/api.php",
-			"searchable": 1,
-			"quickSearch": 1
-		},
 			{
 			"key": "天空资源",
 			"name": "天空资源(切)",
@@ -150,23 +125,7 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-		{
-			"key": "米来影视",
-			"name": "米来影视",
-			"type": 1,
-			"api": "http://42.51.37.161:2346/api.php/iptv/vod/",
-			
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "特狗影视",
-			"name": "特狗影视",
-			"type": 1,
-			"api": "http://tv.tegouys.com/api.php/iptv/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
+		
 		
 		{
 			"key": "考拉TV",
