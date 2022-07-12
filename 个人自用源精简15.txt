@@ -80,24 +80,7 @@
 
   {"key":"csp_biubiu_奇粹影院","name":"🥒奇粹影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB/奇粹影院.json"},
 {"key":"csp_biubiu_影渣渣","name":"🥒影渣渣(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB/影渣渣.json"},
-{
-			"key": "兔子窝",
-			"name": "兔子窝(聚)",
-			"type": 1,
-			"api": "http://cj.huimaojia.com:12345/api.php/provide/vod/",
-			
-			"searchable": 1,
-			"quickSearch": 1
-		},
-{
-			"key": "剧大神",
-			"name": "剧大神(聚)",
-			"type": 1,
-			"api": "http://judashen.com/api.php/provide/vod/",
-			
-			"searchable": 1,
-			"quickSearch": 1
-		},
+
 
 {
 			"key": "小猫咪",
@@ -196,23 +179,7 @@
 			"quickSearch": 1
 		},
 		
-		{
-			"key": "快播资源",
-			"name": "快播资源(切)",
-			"type": 1,
-			"api": "http://www.kuaibozy.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
 		
-		{
-			"key": "酷云77",
-			"name": "酷云77",
-			"type": 1,
-			"api": "http://api.kunyu77.com/api.php",
-			"searchable": 1,
-			"quickSearch": 1
-		},
 			{
 			"key": "天空资源",
 			"name": "天空资源(切)",
@@ -222,14 +189,7 @@
 			"quickSearch": 1
 		},
 		
-		{
-			"key": "特狗影视",
-			"name": "特狗影视",
-			"type": 1,
-			"api": "http://tv.tegouys.com/api.php/iptv/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
+		
 		
 		{
 			"key": "考拉TV",
