@@ -189,7 +189,7 @@
 			"quickSearch": 1
 		},
 		
-		
+		{"key":"淘片资源","name":"淘片资源(优)","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","searchable":1,"quickSearch":1},
 		
 		{
 			"key": "考拉TV",
