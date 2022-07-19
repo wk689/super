@@ -350,7 +350,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name": "线路必成","type": 1,"url": " https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url=","ext":{"flag": ["qq","qiyi","youku","pptv","le","sohu","bilibili","xigua","1905"]}},
  {"name":"QQYI","type":1,"url":"http://home.jundie.top:666/jiexi.php?url="},
-
+{"name":"fuqi","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
 {
       "name": "Web解析",
       "type": 0,
@@ -394,13 +394,10 @@
 
 
 
-//"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA3.jar?download=true",
 
-//"spider":"https://icloud2.coding.net/p/jar/d/jar/git/raw/master/XBiubiuLA2.jar?download=true",
   "spider":"https://github.com/wk689/super/raw/main/ts.jar",
   
- //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
- 
+
   "flags": [
     "youku",
     "qq",
